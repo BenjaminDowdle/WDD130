@@ -1,0 +1,28 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+}
+
+.logo {
+    width: 14rem;
+}
+
+#header-banner {
+    height: 2rem;
+    width: 100%;
+    background-color: #d61c1c;
+    border-bottom: 2rem solid #1b1a1a;
+}
+
+#car-sign {
+    width: 100%;
+    padding-top: 1em;
+}
