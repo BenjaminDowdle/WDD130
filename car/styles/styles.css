@@ -9,6 +9,7 @@ header {
     width: 100%;
     background-color: white;
     text-align: center;
+    margin-top: -22px;
 }
 
 .logo {
@@ -24,5 +25,5 @@ header {
 
 #car-sign {
     width: 100%;
-    padding-top: 1em;
+
 }
