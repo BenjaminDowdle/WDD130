@@ -237,34 +237,34 @@ footer .social img {
     box-shadow: 5px 5px 10px #6f7364;
 }
 
-#salmon-river{
+#salmon-river {
     margin: 50px;
     margin-bottom: 50px;
 }
 
-#gray-canyon{
+#gray-canyon {
     margin: 50px;
     margin-bottom: 50px;
 }
 
-#grand-canyon{
+#grand-canyon {
     margin: 50px;
     margin-bottom: 50px;
 }
 
-#salmon-river-img{
+#salmon-river-img {
     width: 45%;
     float: left;
     margin-right: 50px;
 }
 
-#gray-canyon-img{
+#gray-canyon-img {
     width: 45%;
     float: right;
     margin-left: 50px;
 }
 
-#grand-canyon-img{
+#grand-canyon-img {
     width: 45%;
     float: left;
     margin-right: 50px;
@@ -326,4 +326,19 @@ footer .social img {
     footer {
         margin-top: 25px;
     }
+}
+
+#feedback {
+    background-color: antiquewhite;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: .5em;
+    /* make this element invisible until we are ready for it */
+    display: none;
+}
+
+.moveDown {
+    margin-top: 3em;
 }
