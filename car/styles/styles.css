@@ -26,3 +26,12 @@ header {
     width: 100%;
 
 }
+
+#engine-chrome {
+    width: 60%;
+}
+
+footer,
+h2 {
+    text-align: center;
+}
